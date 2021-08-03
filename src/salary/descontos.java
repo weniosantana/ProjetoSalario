@@ -46,6 +46,6 @@ public class descontos {
 }
 	public String toString() {
 		
-		return String.format("%.2f",salariobruto);
+		return String.format("Salario Final: R$ %.2f ",salariobruto);
 	}
 }
